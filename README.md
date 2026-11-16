@@ -10,17 +10,18 @@ A short lo-fi PS1-style horror game. Memphis, 1994: you're the overnight clerk a
 (If SmartScreen pops up, click **More info → Run anyway**. The game isn't code-signed.)
 
 ## Controls
+Works with keyboard + mouse, any standard gamepad, or a phone/tablet (on-screen controls appear automatically; play in landscape).
 
-| Key | Action |
-|---|---|
-| WASD | Move |
-| Mouse | Look |
-| E | Interact (aim the `+` at things) |
-| Mouse wheel / `[` `]` | Tape speed |
-| R | Play tape backwards |
-| A / D or 1-3 | Switch security cameras |
-| Space | Skip a line of dialogue |
-| Esc | Pause, plus a checklist of what to do next |
+| Action | Keyboard | Gamepad | Phone |
+|---|---|---|---|
+| Move | WASD | Left stick | Left thumb |
+| Look | Mouse | Right stick | Drag right side |
+| Interact | E | A / Cross | USE |
+| Tape speed | Mouse wheel / `[` `]` | LB / RB | − / + |
+| Tape backwards | R | X / Square | REV |
+| Switch cameras | A / D or 1-3 | D-pad | < > |
+| Skip a line | Space | B / Circle | >> |
+| Pause + checklist | Esc | Start | II |
 
 About 15 minutes. Headphones recommended. Contains flashing lights, loud jump scares, and occult imagery. All characters, artists, and labels are fictional.
 

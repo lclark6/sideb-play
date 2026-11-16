@@ -42,7 +42,10 @@
   a.btn.alt:hover { background: #333; }
   .small { color: var(--dim); font-size: 13px; margin-bottom: 44px; }
   .controls { text-align: left; border-top: 1px dashed #333; padding-top: 24px; font-size: 14px; line-height: 1.9; }
-  .controls b { color: #fff; display: inline-block; min-width: 150px; }
+  .controls table { width: 100%; border-collapse: collapse; }
+  .controls th { color: var(--red); text-align: left; font-weight: normal; padding: 4px 6px; border-bottom: 1px dashed #333; }
+  .controls td { padding: 4px 6px; }
+  .controls td:first-child { color: #fff; }
   footer { margin-top: 44px; color: #555; font-size: 12px; line-height: 1.6; }
 </style>
 </head>
@@ -62,18 +65,22 @@
     <a class="btn alt" href="SideB-windows.zip" download>⬇ DOWNLOAD FOR WINDOWS</a>
   </div>
   <div class="small">
-    Browser: works best in Chrome or Edge on a computer. Click the game once to lock your mouse.<br>
+    Works on a computer, a phone (turn it sideways), or with a gamepad.<br>
+    On a computer, click the game once to lock your mouse. Phones get on-screen controls automatically.<br>
     Windows: unzip, run SideB.exe. If SmartScreen warns you, click "More info" → "Run anyway".
   </div>
   <div class="controls">
-    <div><b>WASD</b> move</div>
-    <div><b>Mouse</b> look</div>
-    <div><b>E</b> interact (aim the + at things)</div>
-    <div><b>Wheel / [ ]</b> tape speed</div>
-    <div><b>R</b> play tape backwards</div>
-    <div><b>A / D, 1-3</b> switch security cameras</div>
-    <div><b>Space</b> skip a line</div>
-    <div><b>Esc</b> pause + what to do next</div>
+    <table>
+      <tr><th></th><th>Keyboard</th><th>Gamepad</th><th>Phone</th></tr>
+      <tr><td>Move</td><td>WASD</td><td>Left stick</td><td>Left thumb</td></tr>
+      <tr><td>Look</td><td>Mouse</td><td>Right stick</td><td>Drag right side</td></tr>
+      <tr><td>Interact</td><td>E</td><td>A / Cross</td><td>USE</td></tr>
+      <tr><td>Tape speed</td><td>Wheel / [ ]</td><td>LB / RB</td><td>- / +</td></tr>
+      <tr><td>Tape backwards</td><td>R</td><td>X / Square</td><td>REV</td></tr>
+      <tr><td>Switch cameras</td><td>A / D, 1-3</td><td>D-pad</td><td>&lt; &gt;</td></tr>
+      <tr><td>Skip a line</td><td>Space</td><td>B / Circle</td><td>&gt;&gt;</td></tr>
+      <tr><td>Pause + help</td><td>Esc</td><td>Start</td><td>II</td></tr>
+    </table>
   </div>
   <footer>
     About 15 minutes. Headphones recommended.<br>
