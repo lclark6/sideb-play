@@ -1,4 +1,4 @@
-# SIDE B — Night 1
+# SIDE B
 
 A short lo-fi PS1-style horror game. Memphis, 1994: you're the overnight clerk at a tape dubbing shop, and somebody left a tape with no label on your counter.
 
@@ -23,7 +23,7 @@ Works with keyboard + mouse, any standard gamepad, or a phone/tablet (on-screen 
 | Skip a line | Space | B / Circle | >> |
 | Pause + checklist | Esc | Start | II |
 
-About 15 minutes. Headphones recommended. Contains flashing lights, loud jump scares, and occult imagery. All characters, artists, and labels are fictional.
+Two nights, about 30 minutes, 2 endings. Progress saves automatically. Headphones recommended. Contains flashing lights, loud jump scares, and occult imagery. All characters, artists, and labels are fictional.
 
 ## Credits
 - Entity model: "Sackhead Killer" by **Aredius (Daniel Arias)** — https://arediuspsx.itch.io/sackhead-killer
