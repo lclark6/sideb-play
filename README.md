@@ -24,5 +24,9 @@ A short lo-fi PS1-style horror game. Memphis, 1994: you're the overnight clerk a
 
 About 15 minutes. Headphones recommended. Contains flashing lights, loud jump scares, and occult imagery. All characters, artists, and labels are fictional.
 
+## Credits
+- Entity model: "Sackhead Killer" by **Aredius (Daniel Arias)** — https://arediuspsx.itch.io/sackhead-killer
+- Clerk model: "PSX male character" by **32dev3** — https://32dev3.itch.io/psx-male-character
+
 ---
 *This repo contains the playable build only.*
