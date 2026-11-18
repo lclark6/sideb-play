@@ -1,6 +1,8 @@
 # SIDE B
 
-A short lo-fi PS1-style horror game. Memphis, 1994: you're the overnight clerk at a tape dubbing shop, and somebody left a tape with no label on your counter.
+A short lo-fi PS1-style horror game. Memphis, 1994: you're the new overnight maintenance man at Magnolia Court Apartments, and the noise complaint is about a unit that's been empty since 1991.
+
+The original dubbing-shop game is still included: press **R** on the title screen.
 
 ## ▶ Play
 
@@ -17,16 +19,19 @@ Works with keyboard + mouse, any standard gamepad, or a phone/tablet (on-screen 
 | Move | WASD | Left stick | Left thumb |
 | Look | Mouse | Right stick | Drag right side |
 | Interact | E | A / Cross | USE |
+| Run (you get winded) | Shift (hold) | L3 (click) | RUN |
+| Jump | Space | Y / Triangle | JUMP |
 | Tape speed | Mouse wheel / `[` `]` | LB / RB | − / + |
 | Tape backwards | R | X / Square | REV |
 | Switch cameras | A / D or 1-3 | D-pad | < > |
-| Skip a line | Space | B / Circle | >> |
+| Skip a line | Enter | B / Circle | >> |
 | Pause + checklist | Esc | Start | II |
 
-Two nights, about 30 minutes, 2 endings. Progress saves automatically. Headphones recommended. Contains flashing lights, loud jump scares, and occult imagery. All characters, artists, and labels are fictional.
+Magnolia Court night one, about 15 minutes (night two coming). The original shop game has two nights and two endings. Headphones recommended. Contains flashing lights, loud jump scares, and occult imagery. All characters, artists, and labels are fictional.
 
 ## Credits
 - Entity model: "Sackhead Killer" by **Aredius (Daniel Arias)** — https://arediuspsx.itch.io/sackhead-killer
+- Tenant models: "Stylized Character Pack lite" by **Polygonal Assets** (Fab)
 - Clerk model: "PSX male character" by **32dev3** — https://32dev3.itch.io/psx-male-character
 
 ---
