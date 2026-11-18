@@ -27,7 +27,7 @@ Works with keyboard + mouse, any standard gamepad, or a phone/tablet (on-screen 
 | Skip a line | Enter | B / Circle | >> |
 | Pause + checklist | Esc | Start | II |
 
-Magnolia Court night one, about 15 minutes (night two coming). The original shop game has two nights and two endings. Headphones recommended. Contains flashing lights, loud jump scares, and occult imagery. All characters, artists, and labels are fictional.
+Magnolia Court: two nights, about 30 minutes, 2 endings (pick a night on the title screen). The original shop game has two nights and two endings. Headphones recommended. Contains flashing lights, loud jump scares, and occult imagery. All characters, artists, and labels are fictional.
 
 ## Credits
 - Entity model: "Sackhead Killer" by **Aredius (Daniel Arias)** — https://arediuspsx.itch.io/sackhead-killer
