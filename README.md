@@ -32,7 +32,7 @@ Magnolia Court night one, about 15 minutes (night two coming). The original shop
 ## Credits
 - Entity model: "Sackhead Killer" by **Aredius (Daniel Arias)** — https://arediuspsx.itch.io/sackhead-killer
 - Tenant models: "Stylized Character Pack lite" by **Polygonal Assets** (Fab)
-- Props: "[PSX] Furniture Pack" by **akneeee**, "Classic Office Desk" by **BitSoft Games**, "Old Gas Stove and Oven" by **Glowbox3D** (CC-BY), "Weathered Electrical Panel" by **Nat Not** (all via Fab)
+- Props: "[PSX] Furniture Pack" by **akneeee**, "Classic Office Desk" by **BitSoft Games**, "Old Gas Stove and Oven" by **Glowbox3D** (CC-BY), "Weathered Electrical Panel" by **Nat Not**, "Low Poly cars pack" by **mathosanimation** (CC-BY), "PSX Horror Starter" by **Lowbit Lab**, "Dumpster", "PSX Boombox", "PSX Washing Machine" (CC-BY) and an 80s computer model (all via Fab)
 - Clerk model: "PSX male character" by **32dev3** — https://32dev3.itch.io/psx-male-character
 
 ---
