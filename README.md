@@ -19,7 +19,7 @@ Works with keyboard + mouse, any standard gamepad, or a phone/tablet (on-screen 
 | Move | WASD | Left stick | Left thumb |
 | Look | Mouse | Right stick | Drag right side |
 | Interact | E | A / Cross | USE |
-| Run (you get winded) | Shift (hold) | L3 (click) | RUN |
+| Run (you get winded) | Shift (hold) | L3 (click) | Push the stick past its ring |
 | Jump | Space | Y / Triangle | JUMP |
 | Tape speed | Mouse wheel / `[` `]` | LB / RB | − / + |
 | Tape backwards | R | X / Square | REV |
