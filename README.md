@@ -27,7 +27,9 @@ Works with keyboard + mouse, any standard gamepad, or a phone/tablet (on-screen 
 | Skip a line | Enter | B / Circle | >> |
 | Pause + checklist | Esc | Start | II |
 
-Magnolia Court: two nights, about 30 minutes, 2 endings (pick a night on the title screen). The original shop game has two nights and two endings. Headphones recommended. Contains flashing lights, loud jump scares, and occult imagery. All characters, artists, and labels are fictional.
+Magnolia Court: two nights, about 30 minutes, 2 endings (pick a night on the title screen).
+
+Everything is adjustable in **SETTINGS** (title screen or pause menu): video (fullscreen, resolution, FOV, brightness, VHS strength, dithering, PS1 wobble), audio (master / music / effects / voices), controls (rebind any key or gamepad button, mouse / gamepad / touch sensitivity, invert Y) and gameplay (text speed, subtitle size, hints, waypoints, crosshair, head bob, chase difficulty, reduce flashing). The original shop game has two nights and two endings. Headphones recommended. Contains flashing lights, loud jump scares, and occult imagery. All characters, artists, and labels are fictional.
 
 ## Credits
 - Entity model: "Sackhead Killer" by **Aredius (Daniel Arias)** — https://arediuspsx.itch.io/sackhead-killer
